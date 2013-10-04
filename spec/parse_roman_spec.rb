@@ -1,4 +1,4 @@
-require 'parse_roman'
+require './lib/parse_roman'
 
 describe 'ParseRoman' do
   it "raises exception on invalid string" do

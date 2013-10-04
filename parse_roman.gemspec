@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ParseRoman::VERSION
   spec.authors       = ["Oleg Potapov"]
   spec.email         = ["oleg0potapov@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "gem description"
+  spec.summary       = "gem summary"
   spec.homepage      = ""
   spec.license       = "MIT"
 
